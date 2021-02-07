@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(2, 61, 255);
+}
+.shapka { color: aqua;
+background-color: black;}
+header { background-color: black;}
+.ssuylka { color: red;
+border: 5px solid purple ;
+border-radius: 10px ;
+padding: 10px;
+text-decoration: none ;} 
+.zagolovok { color: yellowgreen;}
+.texstniz {color: purple;}
+.ehg {border-radius: 15px;
+border: 1px solid purple ;}
+html { 
+    background-color: purple;}
+.rhg {border-radius: 15px;
+border: 1px solid purple ;
+border-radius: 15px;
+padding: 10px;
+margin: 15px;}
+.ehg { border-radius: 15px;
+padding: 10px;
+margin: 15px;}
+.thg {border-radius: 15px;
+border: 1px solid purple ;
+border-radius: 15px;
+padding: 10px;
+margin: 15px;}
+.yhg {border-radius: 15px;
+border: 1px solid purple ;
+border-radius: 15px;
+padding: 10px;
+margin: 15px;}
+
